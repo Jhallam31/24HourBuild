@@ -64,7 +64,6 @@ C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourB
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\Microsoft.Owin.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\Microsoft.Owin.Security.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\Microsoft.Owin.Security.Facebook.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\Microsoft.Owin.Security.Google.dll
@@ -123,3 +122,6 @@ C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourB
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\obj\Debug\24HourBuild.WebAPI.csproj.CopyComplete
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\obj\Debug\24HourBuild.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\obj\Debug\24HourBuild.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\System.Web.Cors.dll
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\System.Web.Http.Cors.dll
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild\bin\System.Web.Http.Cors.xml

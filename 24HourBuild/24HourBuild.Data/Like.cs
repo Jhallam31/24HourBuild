@@ -10,12 +10,21 @@ namespace _24HourBuild.Data
 {
     public class Like
     {
+        public int LikeID { get; set; }
+
+        public bool IsLiked { get; set; }
+
         [Required]
         [ForeignKey("Post")]
-        public Guid PostID { get; set; }
-        public virtual Post Post { get; set; }
+        public int PostID { get; set; }
+        public virtual Post ParentPost { get; set; }
 
-       public User User { get; set; }
+        public string PostTitle { get; set; }
+        public string PostText { get; set; }
+
+        public int UserID { get; set; }
+        public string UserName { get; set; }
+        
 
 
     }

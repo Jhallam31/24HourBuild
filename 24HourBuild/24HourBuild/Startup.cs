@@ -12,6 +12,7 @@ namespace _24HourBuild
     {
         public void Configuration(IAppBuilder app)
         {
+            
             ConfigureAuth(app);
         }
     }

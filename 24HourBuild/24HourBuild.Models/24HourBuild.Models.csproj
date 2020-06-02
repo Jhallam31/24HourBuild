@@ -76,11 +76,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Comment\CommentCreate.cs" />
+    <Compile Include="Comment\CommentDetail.cs" />
+    <Compile Include="Comment\CommentEdit.cs" />
+    <Compile Include="Comment\CommentListItem.cs" />
+    <Compile Include="Like\LikeCreate.cs" />
+    <Compile Include="Like\LikeDetail.cs" />
+    <Compile Include="Like\LikeEdit.cs" />
+    <Compile Include="Like\LikeListItem.cs" />
+    <Compile Include="Post\PostCreate.cs" />
+    <Compile Include="Post\PostDetail.cs" />
+    <Compile Include="Post\PostEdit.cs" />
+    <Compile Include="Post\PostListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reply\ReplyCreate.cs" />
+    <Compile Include="Reply\ReplyDetail.cs" />
+    <Compile Include="Reply\ReplyEdit.cs" />
+    <Compile Include="Reply\ReplyListItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\24HourBuild.Data\24HourBuild.Data.csproj">
+      <Project>{D729B1E4-2ABE-4B82-A1C0-C182B4FBEB8A}</Project>
+      <Name>24HourBuild.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

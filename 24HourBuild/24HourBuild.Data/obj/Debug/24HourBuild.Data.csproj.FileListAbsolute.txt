@@ -27,3 +27,5 @@ C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourB
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Data\obj\Debug\24HourBuild.Data.csproj.CopyComplete
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Data\obj\Debug\24HourBuild.Data.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Data\obj\Debug\24HourBuild.Data.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Data\obj\Debug\_24HourBuild.Data.Migrations._10oclockadd.resources
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Data\obj\Debug\24HourBuild.Data.csproj.GenerateResource.cache

@@ -11,7 +11,7 @@ namespace _24HourBuild.Data
     public class Post
     {
         [Key]   
-        public Guid PostID { get; set; }
+        public int PostID { get; set; }
         
         [Required]
         public string PostTitle { get; set; }
@@ -25,7 +25,7 @@ namespace _24HourBuild.Data
        
        
         [ForeignKey("Author")]
-        public Guid UserID { get; set; }
+        public int UserID { get; set; }
         public virtual User Author { get; set; }
 
     }

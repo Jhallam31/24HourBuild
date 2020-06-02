@@ -27,3 +27,9 @@ C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourB
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\obj\Debug\24HourBuild.Services.csproj.CopyComplete
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\obj\Debug\24HourBuild.Services.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\obj\Debug\24HourBuild.Services.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\bin\Debug\24HourBuild.Data.dll
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\bin\Debug\24HourBuild.Models.dll
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\bin\Debug\24HourBuild.Data.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\bin\Debug\24HourBuild.Data.dll.config
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\bin\Debug\24HourBuild.Models.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Services\bin\Debug\24HourBuild.Models.dll.config
