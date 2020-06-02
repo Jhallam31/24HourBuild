@@ -10,8 +10,9 @@ namespace _24HourBuild.Models.Reply
 {
     public class ReplyListItem
     {
-        public int ReplyID { get; set; }
         public int CommentID { get; set; }
+        public string ReplyComment { get; set; }
+
 
         [Display(Name = "Comment")]
         public string CommentText { get; set; }
@@ -22,6 +23,6 @@ namespace _24HourBuild.Models.Reply
         public string PostTitle { get; set; }
         public string PostText { get; set; }
 
-        public string UserName { get; set; }
+        
     }
 }

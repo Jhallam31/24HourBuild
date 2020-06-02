@@ -20,9 +20,8 @@ namespace _24HourBuild.Data
         //public virtual User CommentAuthor { get; set; }
 
         //[ForeignKey("Post")]
-        //public int PostID { get; set; }
-        //public virtual Post Post { get; set; }
-        public virtual Comment Comment { get; set; }
+        
+        public string ReplyComment { get; set; }
 
 
     }

@@ -1,6 +1,7 @@
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Models.dll.config
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Models.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Models.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Data.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\EntityFramework.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
@@ -12,6 +13,8 @@ C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourB
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\Microsoft.Owin.Security.OAuth.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\Newtonsoft.Json.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\Owin.dll
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Data.pdb
+C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Data.dll.config
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\EntityFramework.xml
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
@@ -27,6 +30,3 @@ C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourB
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\obj\Debug\24HourBuild.Models.csproj.CopyComplete
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\obj\Debug\24HourBuild.Models.dll
 C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\obj\Debug\24HourBuild.Models.pdb
-C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Data.dll
-C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Data.pdb
-C:\Users\jenna\OneDrive\Documents\ElevenFifty Projects\DotNetProjects\C#\24HourBuild\24HourBuild\24HourBuild.Models\bin\Debug\24HourBuild.Data.dll.config

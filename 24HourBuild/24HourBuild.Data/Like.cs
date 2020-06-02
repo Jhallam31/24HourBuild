@@ -15,7 +15,7 @@ namespace _24HourBuild.Data
         public bool IsLiked { get; set; }
 
         [Required]
-        [ForeignKey("Post")]
+        [ForeignKey("ParentPost")]
         public int PostID { get; set; }
         public virtual Post ParentPost { get; set; }
 

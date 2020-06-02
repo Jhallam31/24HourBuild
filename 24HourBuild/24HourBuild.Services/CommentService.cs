@@ -52,7 +52,6 @@ namespace _24HourBuild.Services
                                     CommentText = e.CommentText,
                                     CommentAuthor = e.CommentAuthor,
                                     PostText= e.PostText,
-                                    Author = e.Author
 
                                 }
                         );
@@ -76,7 +75,6 @@ namespace _24HourBuild.Services
                         CommentAuthor= entity.CommentAuthor,
                         PostTitle = entity.PostTitle,
                         PostText = entity.PostText,
-                        Author = entity.Author
 
                     };
             }

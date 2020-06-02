@@ -10,7 +10,7 @@ namespace _24HourBuild.Data
 {
     public class Comment
     {
-        
+
 
         [Key]
         public int CommentID { get; set; }
@@ -20,12 +20,13 @@ namespace _24HourBuild.Data
         public int UserID { get; set; }
         public virtual User CommentAuthor { get; set; }
 
-        [ForeignKey("Post")]
+        [ForeignKey("Author")]
         public int PostID { get; set; }
-        public virtual string PostText { get; set; }
+        public virtual Post Author { get; set; }
+        public string PostText { get; set; }
 
-        public virtual string PostTitle { get; set; }
-        public virtual User Author { get; set; }
+        public string PostTitle { get; set; }
+        
 
 
     }

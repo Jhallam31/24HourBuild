@@ -36,6 +36,7 @@ namespace _24HourBuild.Data
 
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Like> Likes { get; set; }
+        public DbSet<Reply> Replies { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder

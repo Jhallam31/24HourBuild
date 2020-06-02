@@ -15,6 +15,9 @@ namespace _24HourBuild.Models.Comment
        
         public User CommentAuthor { get; set; }
 
+        
+
+
         public string PostTitle { get; set; }
         public string PostText { get; set; }
         public User Author { get; set; }
